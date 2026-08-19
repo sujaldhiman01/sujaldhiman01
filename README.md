@@ -48,7 +48,7 @@ I'm currently building my skills in **Data Analytics** and looking for internshi
 
 ### 🌐 Connect With Me
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** https://www.linkedin.com/in/sujal-kumar-dhiman-986996326 
 💻 **GitHub:** github.com/sujaldhiman01
 
 ---
