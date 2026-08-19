@@ -13,13 +13,13 @@ I'm a Computer Science Engineering student interested in **Data Analytics and Bu
 📊 Pandas • NumPy • Excel
 
 **Data Visualization:**
-📈 Power BI • Matplotlib • Seaborn
+📈 Power BI • Matplotlib 
 
 **Databases:**
 🗄️ MySQL • MongoDB
 
 **Tools:**
-💻 Jupyter Notebook • VS Code • Git • GitHub
+• VS Code • Git • GitHub
 
 ### 📌 Data Analytics Projects
 
